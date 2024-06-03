@@ -16,11 +16,6 @@
   </a>
 </div>
 
-## 🚀 Getting Started
-
-- The Tuko learning japan application is designed to help children learn the Japanese language efficiently.
-- A simple way to learn by example using pictures and sounds.
-- You can choose between numbers🔢, family members 👨‍👩‍👧‍👧, colors 🔴 and some simple conversations.
 
 ## 🤳 UI
 
