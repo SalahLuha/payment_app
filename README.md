@@ -1,4 +1,4 @@
-# 🈯 payment_app
+# 💸 payment_app
 
 
 <div align="start">
